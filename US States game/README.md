@@ -2,7 +2,7 @@
 
 A fun little turtle-graphics game that tests how many US states you can name from memory.
 
-![Demo](demo/demo.mp4)
+![Demo](demo/demo.gif)
 
 ## How It Works
 - A blank map of the US is displayed as the game background.
