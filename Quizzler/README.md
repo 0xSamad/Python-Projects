@@ -2,6 +2,8 @@
 
 A True/False trivia quiz built with Python and Tkinter. Answer randomly generated questions, get instant feedback, and track your score as you play.
 
+## Demo
+
 ![Demo](demo/demo.gif)
 
 ## How It Works
@@ -23,4 +25,4 @@ A True/False trivia quiz built with Python and Tkinter. Answer randomly generate
 
 ```bash
 pip install requests
-python main.py ```
+python main.py
