@@ -15,7 +15,7 @@ A simple habit tracker built with Python and the [Pixela](https://pixe.la) API. 
 
 ## Run It Locally
 ```bash
-python pixela_tracker.py
+python main.py
 ```
 Set `PIXELA_TOKEN` and `PIXELA_USERNAME` at the top of the script before running. No external dependencies beyond `requests` are required.
 
