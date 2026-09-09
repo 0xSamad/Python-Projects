@@ -1,4 +1,4 @@
-````markdown
+
 # Selenium Gym Class Booker
 
 A Python Selenium automation bot that logs into a gym scheduling website and automatically processes all Tuesday and Thursday classes scheduled for 6:00 PM.
