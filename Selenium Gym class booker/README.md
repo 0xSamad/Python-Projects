@@ -7,7 +7,7 @@ The bot can book available classes, join waitlists for full classes, recognize e
 
 ## Demo
 
-![Demo](demo/demo.gif)
+![Demo](demo/demo3.gif)
 
 ## Features
 
